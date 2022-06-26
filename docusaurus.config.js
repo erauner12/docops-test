@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'React + TS',
+  title: 'testing',
   tagline: 'Code Snippets & Examples',
   url: 'https://erauner12.github.io',
   baseUrl: '/docops-test/',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'erauner', // Usually your GitHub org/user name.
+  organizationName: 'erauner12', // Usually your GitHub org/user name.
   projectName: 'docops-test', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
