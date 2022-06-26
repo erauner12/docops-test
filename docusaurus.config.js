@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'React + TS',
   tagline: 'Code Snippets & Examples',
-  url: 'https://judygab.github.io',
-  baseUrl: '/ts-react/',
+  url: 'https://erauner12.github.io',
+  baseUrl: '/docops-test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'judygab', // Usually your GitHub org/user name.
-  projectName: 'ts-react', // Usually your repo name.
+  organizationName: 'erauner', // Usually your GitHub org/user name.
+  projectName: 'docops-test', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -71,7 +71,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/judygab/ts-react',
+            href: 'https://erauner12.github.io/docops-test/',
             label: 'GitHub',
             position: 'right',
           },
